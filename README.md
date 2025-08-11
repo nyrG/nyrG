@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Ymiel Canque!
 
 I'm a recent graduate with a Bachelor of Science in Information Technology, ready to build and innovate. I'm passionate about creating clean, efficient software and enjoy exploring both web and mobile development.
 
@@ -24,27 +24,8 @@ I'm a recent graduate with a Bachelor of Science in Information Technology, read
 
 ---
 
-### 🤝 Professional Skills
-
-* **Project Management**
-* **People Leadership**
-
----
-
-### 🗣️ Languages
-
-* **English:** Proficient
-* **Tagalog:** Conversational
-
----
-
 ### 🌱 I'm currently learning...
 
 * [Specify a new technology or concept you're learning, e.g., "React Native" or "data structures and algorithms."]
 
 ---
-
-### 📫 How to reach me
-
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Link to your LinkedIn Profile]
