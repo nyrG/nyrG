@@ -1,31 +1,35 @@
 # Hi there 👋, I'm Ymiel Canque!
 
-I'm a recent graduate with a Bachelor of Science in Information Technology, ready to build and innovate. I'm passionate about creating clean, efficient software and enjoy exploring both web and mobile development.
+I'm a recent graduate with a **Bachelor of Science in Information Technology**, passionate about building clean, efficient, and scalable software. I'm focusing my skills on creating robust, full-stack web applications.
 
 ---
 
-### 🚀 Technical Skills
+### 🛠️ Core Skills & Technologies
 
-**Languages & Frameworks:**
-* **Web/Mobile:** JavaScript, PHP, Python, Kotlin
-* **Core:** C, C#, Java
-
-**Tools & Technologies:**
-* **Development:** Git, GitHub
-* **UI/UX:** Figma
+| Category | Skills |
+| :--- | :--- |
+| **Current Focus (Full-Stack)** | TypeScript, Angular, NestJS, PostgreSQL |
+| **Languages** | JavaScript, PHP, Python, Kotlin |
+| **Core** | C, C#, Java |
+| **Tools & Version Control** | Git, GitHub, Figma, VS Code |
 
 ---
 
-### 💻 Projects
+### 🚀 Stack Showcase (Proficiency & Learning)
 
-* **[Project Title 1]:** A brief, one-sentence description of the project.
-* **[Project Title 2]:** A brief, one-sentence description of the project.
-* **[Project Title 3]:** A brief, one-sentence description of the project.
+| Technology | Proficiency |
+| :--- | :--- |
+| **Web Frameworks** | **Angular** (Learning), **NestJS** (Learning) |
+| **Database** | **PostgreSQL** |
+| **Frontend/Core** | **JavaScript** (Solid), **TypeScript** (Developing) |
 
 ---
 
 ### 🌱 I'm currently learning...
 
-* [Specify a new technology or concept you're learning, e.g., "React Native" or "data structures and algorithms."]
+I'm focused on mastering the modern web ecosystem to become a proficient full-stack developer:
 
----
+* **Front-end Deep Dive:** Completing advanced modules in **Angular** reactive forms and state management (NgRx).
+* **Back-end Scalability:** Implementing enterprise design patterns and microservices architecture using **NestJS**.
+
+Feel free to connect or check out my work!
